@@ -8,16 +8,15 @@ NASA Taskload Index (TLX) example survey analysis
   
 <h3> Background </h3>
 <p>
-  The NASA TLX is a subjective workload assessment survey where users rate their perceived workload while interacting with human-machine interface systems. It has become the industry standard for measuring subjective workload across the Human Systems Integration area of expertise. It is used to assess workload in environments such as command, control, communication and aircraft cockpits. The 'Raw TLX' measure has been utilized for nearly every usability assessment I've been a part of.   It incorporates an overall workload score based on six factors of the subject task: Mental Demand, Physical Demand, Temporal Demand, Performance, Effort, and Frustration.
+  The <a href="https://humansystems.arc.nasa.gov/groups/tlx/">NASA TLX</a> is a subjective workload assessment survey where users rate their perceived workload while interacting with human-machine interface systems. It has become the industry standard for measuring subjective workload across the Human Systems Integration area of expertise. It is used to assess workload in environments such as command, control, communication and aircraft cockpits. The 'Raw TLX' measure has been utilized for nearly every usability assessment I've been a part of.   It incorporates an overall workload score based on six factors of the subject task: Mental Demand, Physical Demand, Temporal Demand, Performance, Effort, and Frustration.
 
-Source: https://humansystems.arc.nasa.gov/groups/tlx/
 </p>
 
 <h2> Methods </h2>
 <p>
   Due to the nature of where test events occur, usually paper copies of the NASA TLX are issued to operators. Researchers then enter the raw data into excel, but perform analyses and data visualizations in Tableau.
   
-<a href="https://public.tableau.com/app/profile/oliver.mestre/viz/NASA_TLX_workload_example/Dashboard1">Tableau Public Link</a>
+You can view the dashboard <a href="https://public.tableau.com/app/profile/oliver.mestre/viz/NASA_TLX_workload_example/Dashboard1">here,</a> on Tableau public.
 </p>
 
 <h2> The Benefits </h2>
